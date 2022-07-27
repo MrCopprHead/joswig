@@ -1,7 +1,7 @@
 # joswig
 Temporal Joswig algorithm implementation in Python for Parametric Shortest Path Algorithms. Based on https://arxiv.org/pdf/1904.01082.pdf
 
-Files in /src are current.
+Files in /src/ are current.
 
 /src/t_joswig.py contains the main code that implements the joswig algorithm.
 
@@ -9,7 +9,7 @@ Files in /src are current.
 
 /src/auto_interp.py solves the temporal parametric problem for a simulated lunar gateway scenario and pulls data from /src/gatewayDistances.csv
 
-Files in /old are obsolete but may still be useful in the future.
+Files in /old/ are obsolete but may still be useful in the future.
 
 /old/joswig.py contains the old unfinished implementation of the joswig algorithm.
 
